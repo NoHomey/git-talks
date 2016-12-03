@@ -6,6 +6,6 @@
 6. Добавете се в [списъка](https://github.com/NoHomey/git-talks/blob/master/info.csv),
 като commit-a ви трябва да е в отделен branch (упътване изпозлвайте интерфейса на github)
 
-За информация как се прави, прочетете: [краткото обяснение](https://github.com/NoHomey/git-talks/blob/master/git.csv)
+За информация как се прави, прочетете: [краткото обяснение](https://github.com/NoHomey/git-talks/blob/master/git.md)
 
 Ако нещо не разбирате пишете ми във facebook - Иво Стратев !!!
