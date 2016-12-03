@@ -67,7 +67,7 @@ C:/Users/Nt-anex/ivo
 Следвайки предния пример:
 `cd git-talks`
 
-# Добавяне на файлове към commit
+# Добавяне на всички промени към commit
 `git add -A`
 
 # Правене на commit
