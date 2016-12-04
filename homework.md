@@ -8,6 +8,6 @@
 
 За информация как се прави, прочетете: [краткото обяснение](https://github.com/NoHomey/git-talks/blob/master/git.md)
 
-Ако не знаете какво е представлява CSV формата, оптал съм се да го обясна на кратко [тук](https://github.com/NoHomey/git-talks/blob/master/csv.md)
+Ако не знаете какво представлява CSV формата, оптал съм се да го обясна на кратко [тук](https://github.com/NoHomey/git-talks/blob/master/csv.md)
 
 Ако нещо не разбирате пишете ми във facebook - Иво Стратев !!!
