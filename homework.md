@@ -4,7 +4,7 @@
 4. commit-нете и push-нете промените
 5. Отворете issue, в което пратете линк към вашето хранилище
 6. Добавете се в [списъка](https://github.com/NoHomey/git-talks/blob/master/info.csv),
-като commit-a ви трябва да е в отделен branch (упътване изпозлвайте интерфейса на github)
+като commit-a ви трябва да е в отделен branch и направете pull request (упътване изпозлвайте интерфейса на github)
 
 За информация как се прави, прочетете: [краткото обяснение](https://github.com/NoHomey/git-talks/blob/master/git.md)
 
