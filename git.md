@@ -65,7 +65,11 @@ C:/Users/Nt-anex/ivo
 #***Важно преди да изпозлвате git команда различна от git clone сменете текущата директория с тази на хранилището***:
 
 Следвайки предния пример:
-`cd git-talks`
+```
+cd git-talks
+pwd
+C:/Users/Nt-anex/ivo/git-talks
+```
 
 # Добавяне на всички промени към commit
 `git add -A`
