@@ -1,11 +1,11 @@
-Име и фамилия,спец,фак. номер,дата,github профил,"хранилище (попълнете номера на issue-то, което сте отворили)"
-Иво Стратев,И,45342,03.12.16,NoHomey,https://github.com/NoHomey/git-talks
-Ростислав Стоянов,И,45244,04.12.16,RostislavStoyanov,https://github.com/RostislavStoyanov/hello_world
-Теодор Грозданов,КН,81560,05.12.16,teodorkg,https://github.com/teodorkg/fmi_start
-Радослав Йорданов,И,45300,05.12.16,RadoslavGYordanov,https://github.com/RadoslavGYordanov/test-git
-Александър Кръстев,И,45314,06.12.16,BlackMacWizard,https://github.com/BlackMacWizard/homework
-Христо Костадинов,И,45245,07.12.16,Godfather22,https://github.com/Godfather22/hello-world
-Силвия Йонкова,СИ,61986,11.12.16,PurpleGalaxy,https://github.com/PurpleGalaxy/Starting_with_git
-Стилиян Илиев,И,45275,04.12.16,st1997,https://github.com/st1997/homework
-Кристиан Серафимов,КН,81518,13.12.16,CrissHF,https://github.com/CrissHF/TestRepository
-����� �������,�,45271,18.12.16,Idragnev,#4
+ ??? ? ???????,????,???. ?????,????,github ??????,"????????? (????????? ?????? ?? issue-??, ????? ??? ????????)",Име и фамилия,спец,фак. номер,дата,github профил,"хранилище (попълнете номера на issue-то, което сте отворили)"
+ ??? ???????,?,45342,03.12.16,NoHomey,https://github.com/NoHomey/git-talks,Иво Стратев,И,45342,03.12.16,NoHomey,https://github.com/NoHomey/git-talks
+ ????????? ???????,?,45244,04.12.16,RostislavStoyanov,https://github.com/RostislavStoyanov/hello_world,Ростислав Стоянов,И,45244,04.12.16,RostislavStoyanov,https://github.com/RostislavStoyanov/hello_world
+ ?????? ?????????,??,81560,05.12.16,teodorkg,https://github.com/teodorkg/fmi_start,Теодор Грозданов,КН,81560,05.12.16,teodorkg,https://github.com/teodorkg/fmi_start
+ ???????? ????????,?,45300,05.12.16,RadoslavGYordanov,https://github.com/RadoslavGYordanov/test-git,Радослав Йорданов,И,45300,05.12.16,RadoslavGYordanov,https://github.com/RadoslavGYordanov/test-git
+ ?????????? ???????,?,45314,06.12.16,BlackMacWizard,https://github.com/BlackMacWizard/homework,Александър Кръстев,И,45314,06.12.16,BlackMacWizard,https://github.com/BlackMacWizard/homework
+ ?????? ??????????,?,45245,07.12.16,Godfather22,https://github.com/Godfather22/hello-world,Христо Костадинов,И,45245,07.12.16,Godfather22,https://github.com/Godfather22/hello-world
+  ?????? ???????,??,61986,11.12.16,PurpleGalaxy,https://github.com/PurpleGalaxy/Starting_with_git,Силвия Йонкова,СИ,61986,11.12.16,PurpleGalaxy,https://github.com/PurpleGalaxy/Starting_with_git
+  ??????? ?????,?,45275,04.12.16,st1997,https://github.com/st1997/homework,Стилиян Илиев,И,45275,04.12.16,st1997,https://github.com/st1997/homework
+  ???????? ?????????,??,81518,13.12.16,CrissHF,https://github.com/CrissHF/TestRepository ,Кристиан Серафимов,КН,81518,13.12.16,CrissHF,https://github.com/CrissHF/TestRepository
+ ????? ????????,?,45271,18.12.16,IDragnev,#4,����� �������,�,45271,18.12.16,Idragnev,#4
