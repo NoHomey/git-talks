@@ -1,7 +1,7 @@
 # git-talks
 Plan for describing what git and github are and how to use them
 
-1. Indtroduction
+1. Introduction
 2. Story of git
 3. What is "version control", and why should you care?
 
@@ -44,8 +44,8 @@ Plan for describing what git and github are and how to use them
 
 7. git commands
 
-- http://gitref.org/
+- GitHub Professional Services (http://gitref.org/)
 
-8. using git from directly from IDEs
+8. using git directly from IDEs
 
-- VSCode
+- VSCode (https://code.visualstudio.com/)
