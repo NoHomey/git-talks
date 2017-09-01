@@ -1,8 +1,10 @@
 #include <iostream>
 #include <string>
 
-void print(std::string message) {
-    std::cout << message << std::endl;
+using namespace std;
+
+void print(string message) {
+    cout << message << endl;
 }
 
 void flag(char flag) {
@@ -29,7 +31,7 @@ int main(int argc, char**argv) {
             flag(argv[i][1]);
         } else {
             print(arg ? "argument" : "Unknown");
-            print(std::string(argv[i]));
+            print(string(argv[i]));
         }
     }
 
